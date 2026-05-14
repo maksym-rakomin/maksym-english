@@ -1,4 +1,4 @@
-# Maxim's English Learning Plan
+# Maksym's English Learning Plan
 
 **Goal:** A1 → B1 general + B2 IT-domain
 **Start:** 2026-05-15
@@ -12,9 +12,9 @@
 ## Baseline
 
 - **EF SET (2026-05-14):** 29/100, A1 Beginner
-    - Reading: 29
-    - Listening: 28
-    - Speaking/Writing: not measured (assumed A0-A1)
+  - Reading: 29
+  - Listening: 28
+  - Speaking/Writing: not measured (assumed A0-A1)
 
 ---
 
@@ -49,7 +49,7 @@
 - 10 min — Speaking (ChatGPT Voice on A1 prompts)
 - 20 min — Listening (BBC LearnEnglish Level 1, EnglishClass101 Level 1)
 - 20 min — Vocab/Anki (10 new / 60 review)
-- 25 min — Grammar/Writing (topic of the week)
+- 25 min — Grammar/Writing (topic of the week, output in `writing/day-N.md`)
 - 15 min — Pronunciation (TH /θ/ /ð/, W vs V, /æ/, schwa /ə/)
 
 ---
@@ -120,6 +120,17 @@ Speaking 60 min/day.
 3. **Every 4 weeks** — month review: re-test previous grammar, reactivate forgotten cards
 4. **Day 1/3/7/14/30 intervals** for new concepts (vocab + grammar)
 5. **Every 2 weeks** — re-record 60-sec "tell me about yourself" Loom
+
+---
+
+## Repository structure
+
+- `plan.md` — this file, source of truth for phases and weeks
+- `progress.md` — tracker: EF SET history, Anki streak, milestones
+- `errors-pool.md` — personal error bank for SRS
+- `vocabulary.md` — weekly vocab log (Anki backup)
+- `sessions/YYYY-MM-DD.md` — daily session notes (copy from `_TEMPLATE.md`)
+- `writing/day-N.md` — daily writing exercise (5+ sentences min)
 
 ---
 
