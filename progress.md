@@ -68,3 +68,10 @@
 - Speaking: 2 sessions total (D2 ChatGPT 7min, D5 with Claude)
 - Writing: day-7.md done
 - Next: W2D1 — articles a/an focus
+
+- Last session: 2026-05-22 (W1 D4)
+- Anki streak: 3
+- Speaking sessions: 4 total (best: 25min D4)
+- First IT roleplay attempted: HR mock ✅
+- Daily budget hit rate: D1 67%, D2 100%, D3 50%, D4 67%
+- New milestone added: "First Daily Standup mock" (target D5)
