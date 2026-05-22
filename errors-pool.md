@@ -119,3 +119,105 @@ Reviewed every Friday + day 1/3/7/14/30 intervals.
 - improve = делать лучше
 - Scottish Fold (порода кошки), cat breed
 - join a team, team leader
+- 
+## Articles (a/an/the)
+- "I have sister" → "I have a sister" — article before singular noun [2026-05-21]
+- "I have meeting" → "I have a meeting" [2026-05-21]
+- "new project" → "a new project" [2026-05-21]
+
+## Tenses
+- "I am have" → "I have" — no *to be* before main verb [2026-05-21]
+- "she live" → "she lives", "manager say" → "manager says" — 3rd person -s [2026-05-21]
+- "we speak about" → "we are speaking about" — Present Continuous, action now [2026-05-21]
+
+## Pronunciation slips
+- W/V confusion: "walk" vs "work", "worry" vs "very" [2026-05-21]
+## W1 D4 — 2026-05-22
+
+### E015 (RECURRING ×3) college → colleague
+- ❌ "My college goes at office" → ✅ "My colleague goes to the office"
+- ❌ "I work with my college" (from D3, still confusing)
+- Visual: colleag**ue** (ends in -ue, like league) = person
+- Pronunciation: /ˈkɒliːɡ/ "кол-лиг" vs college /ˈkɒlɪdʒ/ "кол-лидж"
+
+### E018. have → has (exception in 3rd person)
+- ❌ "My manager haves a meeting" → ✅ "has a meeting"
+- Rule: I/you/we/they → have | he/she/it → has (NOT haves)
+
+### E019. Double articles FORBIDDEN
+- ❌ "her a manager" → ✅ "her manager"
+- ❌ "a the project" → ✅ "a project" OR "the project"
+- Rule: only ONE of (a/an/the | my/your/his/her | this/that) before noun
+- Possessive REPLACES article — never combine
+
+### E020. go TO + place, be/work AT + place
+- ❌ "goes at office" → ✅ "goes to the office" (direction)
+- ✅ "works at the office" (location)
+- ✅ "is at home" (location)
+- Rule: TO = direction (где-то → куда-то), AT = location (где)
+
+### E021. -es after ch/sh/s/x/o (extension of 3rd person rule)
+- ❌ "she watch TV" → ✅ "she watches TV"
+- Verbs: watch→watches, teach→teaches, wash→washes, go→goes, do→does, miss→misses
+- Pronunciation: -es sounds like "из" /ɪz/
+
+### E022. meet (verb) vs meeting (noun)
+- ❌ "I have a meet" → ✅ "I have a meeting"
+- Rule: after a/an/the must be a NOUN, not a verb
+- meet = встречать (verb), meeting = встреча (noun)
+
+### E023 (RECURRING from D1, ×4) Article 'a' before singular countable
+- ❌ "watches TV show" → ✅ "watches a TV show"
+- ❌ "has meeting" → ✅ "has a meeting"
+- Rule: singular countable noun ALWAYS needs a/an/the/my/his/etc.
+
+
+### E024. Possessive 's (NEW, HIGH PRIORITY)
+- ❌ "my wife name" → ✅ "my wife's name"
+- Rule: noun + 's = possession (my brother's car, my sister's dog)
+- Alternative: use his/her/their (her name = my wife's name)
+- SRS: D1, D3, D7, D14, D30
+
+### E025. chimikal → chemical
+- /ˈkemɪkəl/ "ке-ми-кал" — starts with K sound, not CH
+
+### E026. Article before workplace TYPE
+- ❌ "at chemical plant" → ✅ "at a chemical plant"
+- Generic places (home/work/school) — NO article
+- Specific TYPES (plant/office/bank/company) — needs a/the
+
+### E027. Comma splice — RU pattern leaking in
+- ❌ "I have a sister, she lives..."
+- ✅ "I have a sister. She lives..." (period)
+- ✅ "I have a sister, and she lives..." (comma + and)
+- Russian allows joining sentences with comma, English doesn't
+
+### E028. "My work is X" (profession) — anti-pattern
+- ❌ "My work is full stack developer"
+- ✅ "I am a full stack developer"
+- ✅ "My job is full stack development"
+- work (uncountable, no 'a') vs job (countable, with 'a')
+
+### E029. Word order — strict S+V+O+Place+Time
+- ❌ "I have at work a team" (Place between V and O)
+- ✅ "I have a team at work"
+- English is rigid; Russian flexible — must memorize order
+
+### E030. short vs small
+- short = длина/время/рост (short man, short meeting)
+- small = размер/количество (small team, small company)
+
+### E031. "Now" — tense ambiguity
+- "Now I study" = в этот период жизни (Present Simple)
+- "Right now I am studying" = прямо сейчас (Present Continuous)
+- For "прямо сейчас" → ALWAYS Present Continuous
+
+### E032. 3rd person -s misapplied to "I"
+- ❌ "I goes" → ✅ "I go"
+- Rule: -s/-es ONLY for he/she/it. Never for I/you/we/they.
+- Watch: don't overcorrect after learning the rule
+
+### E033. "favorite X is X" — категория дублируется
+- ❌ "favorite show is series Friends"
+- ✅ "favorite show is Friends" / "favorite series is Friends"
+- After "favorite X is..." → name, not category again

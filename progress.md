@@ -60,3 +60,11 @@
 - [ ] W26 — CV + LinkedIn ready
 - [ ] W27 — First applications
 - [ ] W28 — Plan complete
+
+- Last session: 2026-05-21 W1D5
+- Anki streak: 3 (+10 new cards: family/work vocab)
+- Grammar status: family+work vocab done; articles + 3rd person -s = top weak points
+- Errors pool: ~24 items
+- Speaking: 2 sessions total (D2 ChatGPT 7min, D5 with Claude)
+- Writing: day-7.md done
+- Next: W2D1 — articles a/an focus
