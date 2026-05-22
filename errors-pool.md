@@ -221,3 +221,46 @@ Reviewed every Friday + day 1/3/7/14/30 intervals.
 - ❌ "favorite show is series Friends"
 - ✅ "favorite show is Friends" / "favorite series is Friends"
 - After "favorite X is..." → name, not category again
+
+## W1 D4 — Speaking #3 (2026-05-22, ChatGPT Voice)
+
+### E018 (RECURRING ×4) have → has
+- ❌ "my manager have told you" → ✅ "my manager has a project"
+- Still mixing up in active speech (knows in writing, forgets in speech)
+
+### E032 (RECURRING ×2) 3rd person -s drops in Q&A
+- ❌ "My wife go to work" → ✅ "My wife goes to work"
+- Works fine in listen-and-repeat, breaks in active Q&A
+- DRILL: 10 questions in next session "What does he do?" format
+
+### E034. Subject pronoun obligatory
+- ❌ "going to the park every day"
+- ✅ "I go to the park every day"
+- Russian allows dropping pronoun, English doesn't — always include I/he/she/we
+
+### E035. "in remote" → "remotely" / "from home"
+- ❌ "my colleague works in remote"
+- ✅ "my colleague works remotely"
+- ✅ "my colleague works from home"
+- "remote" is adjective, "remotely" is adverb
+
+### E036. "I am do" — mixing to be + Present Simple
+- ❌ "I am do CI/CD"
+- ✅ "I do CI/CD" (Present Simple, regular activity)
+- ✅ "I am doing CI/CD" (Present Continuous, right now)
+- Rule: never combine "am/is/are" with another base verb
+
+### E037. False friend: "project" as verb (= проектировать)
+- ❌ "I project the database" (so не значит "проектирую")
+- ✅ "I design the database"
+- "project" in English = noun (a project) or verb meaning "to throw/cast"
+- For "проектировать" → use design / architect / build
+
+### E038. "As you call X" — Russian calque
+- ❌ "as you call work" (что касается работы)
+- ✅ "about work" / "speaking of work" / просто переходи к ответу
+- A1: don't add intro phrases, answer directly
+
+### E039. "go to the work" → "go to work"
+- Was corrected by GPT, but recurring pattern
+- work/home/school/college = NO article (memorize as block)
