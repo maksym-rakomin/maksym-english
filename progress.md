@@ -75,3 +75,23 @@
 - First IT roleplay attempted: HR mock ✅
 - Daily budget hit rate: D1 67%, D2 100%, D3 50%, D4 67%
 - New milestone added: "First Daily Standup mock" (target D5)
+
+## Current state (updated 2026-05-27)
+
+- **Week:** 1→2 transit (W2D1 после 5-дневной паузы)
+- **Phase:** 0 — Survival
+- **Last session:** 2026-05-27 (W2D1 restart session)
+- **Anki streak:** 0 (сброшен паузой, restart today)
+- **Speaking sessions cumulative:** 5
+- **Grammar topics confirmed:** to be, Present Simple, Present Continuous (with markers), articles a/an/the/zero, have/has, possessives, -es rule, work on/at, prepare for
+
+## Restart diagnostic (after 5-day break)
+- Articles knowledge retained: ~50% (3/6 in diagnostic, 4/6 in quiz, 4/4 in writing)
+- 3rd person -s: retained, но drops под нагрузкой в Voice
+- E036 (is + base verb): NOT retained, recurring ×5 за сессию — top priority
+- E018 (have→has): NOT retained, recurring ×6 — top priority
+
+## Strategy update
+- Day 9 Voice confirmed: 19 min активной речи — новый baseline
+- Next phase: укоротить теорию, удлинить drilling и Voice
+- E036 + E018 в каждой следующей сессии в SRS warm-up

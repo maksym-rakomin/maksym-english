@@ -264,3 +264,68 @@ Reviewed every Friday + day 1/3/7/14/30 intervals.
 ### E039. "go to the work" → "go to work"
 - Was corrected by GPT, but recurring pattern
 - work/home/school/college = NO article (memorize as block)
+
+
+## W2 D1 — 2026-05-27 (Restart session)
+
+### E040. work AT place vs work ON task (NEW)
+- ❌ "works on a bank" → ✅ "works **at** a bank"
+- Rule: AT = location (bank, office, Google), ON = task (project, feature, bug)
+- SRS: D1, D3, D7, D14, D30
+
+### E041. Uncountable nouns — NO article (NEW)
+- ❌ "I love a coffee" → ✅ "I love coffee"
+- ❌ "I have a work" → ✅ "I have work" / "I have a job"
+- List: coffee, water, work, English, music, money, advice
+- Rule: нельзя посчитать → нет `a/an`
+- SRS: D1, D3, D7, D14, D30
+
+### E042. `a` vs `an` — by SOUND, not letter (NEW)
+- ✅ an email, an hour, an office, an article, an important project
+- ✅ a university, a European, a one-time event (звук "ю/ва" — consonant)
+- Rule: смотри на ЗВУК первой буквы, не на букву
+- SRS: D3, D7, D14, D30
+
+### E043. "First, ..." not "First time" (NEW)
+- ❌ "First time I feed the cat" → ✅ "First, I feed the cat"
+- "First time" = первый раз когда-то ("the first time I tried sushi")
+- For sequence (первым делом) → "First, ... Then, ... After that, ..."
+
+### E044. Determiner перед существительным (NEW)
+- ❌ "Wife is at home" → ✅ "My wife is at home"
+- Голое существительное без my/your/the/a звучит как обращение
+- Применять к: wife, husband, son, daughter, manager, colleague, team
+- SRS: D3, D7, D14
+
+### E045. sun ☀️ vs son 👶 — омофоны (NEW)
+- /sʌn/ — оба
+- sun = солнце, son = сын
+- Writing only — в речи неразличимы
+- E045 — Anki card
+
+### E046. school/work/home — NO `the` (NEW)
+- ✅ go to school, go to work, go home
+- ❌ go to the work, go to the home
+- Block places: home, work, school, college, bed, church
+- SRS: D1, D3, D7, D14
+
+### E047. prepare FOR school (не TO) (NEW)
+- ❌ "prepare our son to the school" → ✅ "prepare our son **for** school"
+- Pattern: prepare FOR + event/place
+- Also: ready FOR, get ready FOR
+
+### E036 (RECURRING ×5+ this session, CRITICAL PRIORITY)
+- ❌ "is prepare", "is fix", "feature ready" (пропуск is)
+- ✅ "is preparing", "is fixing", "feature is ready"
+- 🚨 Топ-1 ошибка W1→W2 transition
+- Daily drill: 10 minimal pairs утром перед Anki
+
+### E018 (RECURRING ×6+) have→has
+- ❌ "my manager have meetings" → ✅ "my manager has meetings"
+- Самая упорная ошибка. Не уходит с D1.
+- Drill: "He/she/it" + has, повтор 20 раз вслух
+
+### E021 (RECURRING) -es after sh/ch/s/x/o
+- ❌ "brushs" → ✅ "brushes"
+- ❌ "watch" → ✅ "watches"
+- Rule: после sh/ch/s/x/o звуков → -es, не -s
